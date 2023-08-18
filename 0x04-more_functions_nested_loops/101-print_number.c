@@ -2,6 +2,8 @@
 /**
  * print_number
  * @n:.input integer parameter
+ *
+ * Return: no return
  */
 void print_number(int n)
 {

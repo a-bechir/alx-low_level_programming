@@ -2,6 +2,7 @@
 
 /**
  * print_numbers 0123456789
+ * Return: void
  */
 
 void print_numbers(void)

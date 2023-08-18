@@ -1,8 +1,8 @@
 #include "main.h"
 
-/*
-* print_numbers 0123456789
-*/
+/**
+ * print_numbers 0123456789
+ */
 
 void print_numbers(void)
 {

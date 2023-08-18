@@ -1,6 +1,6 @@
 #include "main.h"
 
-/*
+/**
  * print_diagonal
  * @n: input variable
  */

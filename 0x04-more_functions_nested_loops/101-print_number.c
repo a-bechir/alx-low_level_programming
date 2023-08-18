@@ -1,5 +1,5 @@
 #include "main.h"
-/*
+/**
  * print_number
  * @n:.input integer parameter
  */

@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * puts2 - rints every other character of a string starting with the first character
+ * @str: char
  *
  */
 void puts2(char *str)

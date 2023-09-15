@@ -4,8 +4,8 @@
 
 /**
   * main - check the code
-  * @argc: 
-  * @argv:
+  * @argc: ... 
+  * @argv: ...
   *
   * Return: 0
   */

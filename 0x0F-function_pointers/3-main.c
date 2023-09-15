@@ -4,8 +4,8 @@
 
 /**
   * main - check the code
-  * @argc: argument count
-  * @argv: rguments
+  * @argc: 
+  * @argv:
   *
   * Return: 0
   */

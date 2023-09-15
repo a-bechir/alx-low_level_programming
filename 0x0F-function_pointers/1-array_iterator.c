@@ -3,9 +3,10 @@
 /**
  * array_iterator - a function given as a
  * parameter on each element of an array
+ *
  * @array: array to execute func on
  * @size: size of the array
- * @action: pointer to the function you need to use
+ * @action: pointer to the function
  *
  * Return: void
  */
